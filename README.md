@@ -1,5 +1,7 @@
 # AWS Three-Tier Architecture Deployment (Manual via Console)
 
+![Diagram](architecture-diagram.jpeg)
+
 ## Table of Contents
 - [Network Setup](#network-setup)
   - [VPC](#vpc)
